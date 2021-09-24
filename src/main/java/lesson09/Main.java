@@ -15,5 +15,7 @@ public class Main {
         integers.remove(2);
         integers.removeAll(integers);
         integers.remove(5);
+        System.out.println(integers);
+
     }
 }
